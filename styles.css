@@ -1,0 +1,20 @@
+body{
+	text-align: center
+}
+h2{
+	margin: 20px 0 0
+}
+.unsorted-chart, .sorted-chart {
+    width: 600px;
+    height: 320px;
+    margin: 20px auto 40px;
+    border: solid 1px #000;
+    position: relative;
+}
+
+
+.bar {
+    background-color: red;
+    position: absolute;
+    bottom: 0;
+}
